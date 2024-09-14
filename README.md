@@ -17,3 +17,5 @@ This is a common UI component library for Flutter widgets. It contains widgets l
 
 Here is a small glimpse
 https://github.com/bharathwajv/ui_core/raw/refs/heads/main/chaikings%20demo.mp4
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7236069636289523713" height="1084" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
