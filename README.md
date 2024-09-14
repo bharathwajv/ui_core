@@ -16,6 +16,6 @@ This is a common UI component library for Flutter widgets. It contains widgets l
 ## Features
 
 Here is a small glimpse
+![Flutter_user_interaction_Cafe_app](https://github.com/user-attachments/assets/932219ac-c3cb-4a11-97d5-098ec887c470)
 
 
-[![Demo video](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/shorts/gkb_VE19_ig)
