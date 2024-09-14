@@ -16,4 +16,6 @@ This is a common UI component library for Flutter widgets. It contains widgets l
 ## Features
 
 Here is a small glimpse
-https://youtube.com/shorts/gkb_VE19_ig?feature=share
+
+
+[![Demo video](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/shorts/gkb_VE19_ig)
