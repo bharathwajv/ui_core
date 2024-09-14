@@ -15,6 +15,6 @@ This is a common UI component library for Flutter widgets. It contains widgets l
 
 ## Features
 
-Here is a small glipse
+Here is a small glimpse
 
 
