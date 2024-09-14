@@ -1,0 +1,26 @@
+name: ui_core
+description: "A new Flutter package project."
+version: 0.0.1
+environment:
+  sdk: ^3.5.1
+  flutter: ">=1.17.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  go_router: ^14.2.7
+  shared_preferences: ^2.3.2
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  lottie: ^3.1.2
+  flutter_svg: ^2.0.10+1
+  flutter_animate: ^4.5.0
+  loader_overlay: ^4.0.1
+  cached_network_image: ^3.4.1
+  dio: ^5.6.0
+  geolocator: ^13.0.1
+  responsive_sizer: ^3.3.1
+  hive: ^2.2.3
+  animations: ^2.0.11
