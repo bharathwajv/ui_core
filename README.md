@@ -15,7 +15,14 @@ This is a common UI component library for Flutter widgets. It contains widgets l
 
 ## Features
 
-Here is a small glimpse
 ![Flutter_user_interaction_Cafe_app](https://github.com/user-attachments/assets/932219ac-c3cb-4a11-97d5-098ec887c470)
 
 
+## Full video
+
+https://github.com/bharathwajv/ui_core/raw/refs/heads/main/chaikings%20demo.mp4
+
+
+## Live demo
+
+https://chaikings.vercel.app/
