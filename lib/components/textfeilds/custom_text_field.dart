@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widget_previews.dart';
 
 import '../Extension.dart';
 
+@Preview(name: 'My Sample Text')
 class CustomTextField extends StatefulWidget {
   final String placeholder;
   final Color borderColor;
